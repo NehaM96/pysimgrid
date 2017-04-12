@@ -32,6 +32,10 @@
     "name": "Random"
   },
   {
+    "class": "pysimgrid.simdag.algorithms.SimHEFT",
+    "name": "SimHEFT"
+  },
+  {
     "class": "pysimgrid.simdag.algorithms.RoundRobinStatic",
     "name": "RoundRobin"
   }
