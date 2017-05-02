@@ -27,3 +27,4 @@ from .peft import PEFT
 from .random import RandomStatic
 from .round_robin import RoundRobinStatic
 from .simheft import SimHEFT
+from .cldd import CLDD
